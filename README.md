@@ -18,5 +18,5 @@ java -Xbootclasspath/a:$JAVA_HOME/lib/tools.jar -jar releaseBehinderShell-1.0-SN
 
 # 注意
 
-1. 本工具只在Tomcat环境下进行测试通过，weblogic环境为进行测试。
+1. 本工具只在Tomcat环境下进行测试通过，weblogic环境未进行测试。
 2. 由于使用本工具导致的任何服务器崩溃等一系列问题，与本人无关。
